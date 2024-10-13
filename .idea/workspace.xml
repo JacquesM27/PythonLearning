@@ -20,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JacquesM27"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/JacquesM27/PythonLearning",
@@ -65,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728844781826</updated>
-      <workItem from="1728844784481" duration="5320000" />
+      <workItem from="1728844784481" duration="5451000" />
     </task>
     <task id="LOCAL-00001" summary="types in python">
       <option name="closed" value="true" />
