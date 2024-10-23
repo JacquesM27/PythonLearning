@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef74462b-dbcc-43be-9243-d4f0f8e4ab4c" name="Changes" comment="loops in python">
+    <list default="true" id="ef74462b-dbcc-43be-9243-d4f0f8e4ab4c" name="Changes" comment="more knowledge">
+      <change afterPath="$PROJECT_DIR$/Basics/4. Functions.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Loops.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/3. Loops.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Types.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/2. Types.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Variables.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/1. Variables.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/1. Variables.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/1. Variables.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,8 @@
       <workItem from="1728929479831" duration="6507000" />
       <workItem from="1729182541702" duration="4668000" />
       <workItem from="1729354938585" duration="2242000" />
-      <workItem from="1729440637664" duration="2396000" />
+      <workItem from="1729440637664" duration="3984000" />
+      <workItem from="1729709385411" duration="1948000" />
     </task>
     <task id="LOCAL-00001" summary="types in python">
       <option name="closed" value="true" />
@@ -106,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729186887922</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="more knowledge">
+      <option name="closed" value="true" />
+      <created>1729443473091</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729443473091</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="types in python" />
     <MESSAGE value="loops in python" />
-    <option name="LAST_COMMIT_MESSAGE" value="loops in python" />
+    <MESSAGE value="more knowledge" />
+    <option name="LAST_COMMIT_MESSAGE" value="more knowledge" />
   </component>
 </project>
