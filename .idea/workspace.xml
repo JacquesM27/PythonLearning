@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef74462b-dbcc-43be-9243-d4f0f8e4ab4c" name="Changes" comment="more knowledge">
-      <change afterPath="$PROJECT_DIR$/Basics/4. Functions.ipynb" afterDir="false" />
+    <list default="true" id="ef74462b-dbcc-43be-9243-d4f0f8e4ab4c" name="Changes" comment="added numpy basics">
+      <change afterPath="$PROJECT_DIR$/Pandas/1. Pandas basics.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/1. Variables.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/1. Variables.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -80,7 +80,10 @@
       <workItem from="1729182541702" duration="4668000" />
       <workItem from="1729354938585" duration="2242000" />
       <workItem from="1729440637664" duration="3984000" />
-      <workItem from="1729709385411" duration="1948000" />
+      <workItem from="1729709385411" duration="6296000" />
+      <workItem from="1729924798118" duration="32000" />
+      <workItem from="1729968969744" duration="648000" />
+      <workItem from="1730234805035" duration="2085000" />
     </task>
     <task id="LOCAL-00001" summary="types in python">
       <option name="closed" value="true" />
@@ -114,7 +117,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729443473091</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="knowledge about functions">
+      <option name="closed" value="true" />
+      <created>1729712241378</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729712241378</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added numpy basics">
+      <option name="closed" value="true" />
+      <created>1729716267313</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729716267313</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +154,8 @@
     <MESSAGE value="types in python" />
     <MESSAGE value="loops in python" />
     <MESSAGE value="more knowledge" />
-    <option name="LAST_COMMIT_MESSAGE" value="more knowledge" />
+    <MESSAGE value="knowledge about functions" />
+    <MESSAGE value="added numpy basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="added numpy basics" />
   </component>
 </project>
