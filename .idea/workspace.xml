@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef74462b-dbcc-43be-9243-d4f0f8e4ab4c" name="Changes" comment="first part of pandas">
+    <list default="true" id="ef74462b-dbcc-43be-9243-d4f0f8e4ab4c" name="Changes" comment="more pandas examples">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pandas/1. Pandas basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/1. Pandas basics.ipynb" afterDir="false" />
     </list>
@@ -56,6 +56,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -67,8 +68,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
-        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -89,7 +90,11 @@
       <workItem from="1729924798118" duration="32000" />
       <workItem from="1729968969744" duration="648000" />
       <workItem from="1730234805035" duration="2643000" />
-      <workItem from="1730319559878" duration="4280000" />
+      <workItem from="1730319559878" duration="4545000" />
+      <workItem from="1730457757484" duration="95000" />
+      <workItem from="1730457888664" duration="107000" />
+      <workItem from="1730458007805" duration="89000" />
+      <workItem from="1730657242079" duration="6296000" />
     </task>
     <task id="LOCAL-00001" summary="types in python">
       <option name="closed" value="true" />
@@ -147,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730237453333</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="more pandas examples">
+      <option name="closed" value="true" />
+      <created>1730324199722</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730324199722</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +184,7 @@
     <MESSAGE value="knowledge about functions" />
     <MESSAGE value="added numpy basics" />
     <MESSAGE value="first part of pandas" />
-    <option name="LAST_COMMIT_MESSAGE" value="first part of pandas" />
+    <MESSAGE value="more pandas examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="more pandas examples" />
   </component>
 </project>
